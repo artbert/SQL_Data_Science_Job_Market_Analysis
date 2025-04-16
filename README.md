@@ -235,6 +235,7 @@ The findings suggest that specialized expertise can significantly elevate compen
 | Matplotlib   | 140500            | Java        | 87500             |
 | Snowflake    | 140500            | NoSQL       | 55000             |
 | Tableau      | 140500            | Kafka       | 55000             |
+
 *Table of the Average Salary for Top Paying Skills Required for Remote Data Scientist Roles. (Europe 2023)*
 
 ---
@@ -288,6 +289,7 @@ By merging insights on both skill demand and compensation, the analysis identifi
 | 1   | Python        | 7            | 108214     |
 | 5   | R             | 2            | 101250     |
 | 76  | AWS           | 3            | 91667      |
+
 *Table: Optimal Skills for Data Scientists Sorted by Average Salary and Demand. (The table summarizes insights from the integrated dataset analysis.)*
 
 ---
