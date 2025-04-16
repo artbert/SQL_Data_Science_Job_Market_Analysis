@@ -4,8 +4,6 @@ This project is dedicated to exploring the data job market—with a primary focu
 
 All SQL queries and datasets employed in this analysis can be found in the [sql_code folder](/sql_code/). The underlying data and project inspiration are courtesy of [Luke Barousse](https://lukebarousse.com).
 
----
-
 # Background
 
 A comprehensive database featuring numerous job postings from 2023 serves as the basis for this project. Each posting includes key information such as location, salary, and required skills. The main objective is to analyze remote job opportunities in Europe for Data Scientist roles. To achieve this, the project addresses the following questions:
@@ -18,8 +16,6 @@ A comprehensive database featuring numerous job postings from 2023 serves as the
 
 The analysis was conducted using PostgreSQL, Visual Studio Code, Python (with Pyplot), Git, and GitHub.
 
----
-
 # Data Science Job Offers Analysis
 This repository presents an in-depth analysis of the results obtained from SQL queries related to Data Scientist job offers. The analysis covers several key dimensions:
 
@@ -27,8 +23,6 @@ This repository presents an in-depth analysis of the results obtained from SQL q
 - **Skills Breakdown:** In-depth insights into the skills required for high-paying positions.
 - **Demand Assessment:** Analysis of the most in-demand core competencies in data science.
 - **Compensation Trade-Offs:** A comparison between frequently requested skills and specialized expertise that yield premium salaries.
-
----
 
 ## 1. Top Paying Offers for Data Scientists
 #### What are the highest-paying positions for Data Scientists in Europe?
@@ -69,8 +63,6 @@ This query retrieves key information such as job titles, locations, employment t
 ![Top Paying Offers](assets/top_paying_offers.png)
 *Visualization: Top 10 Salaries for Remote Data Scientist Positions in Europe (2023)  
 (Generated using Python’s Pyplot.)*
-
----
 
 ## 2. Skills for Top Paying Offers
 #### Which skills are predominantly associated with these top-paying roles?
@@ -121,8 +113,6 @@ Understanding which skills correlate with the highest salaries provides vital gu
 ![Top Paying Skills](assets/skills_for_top_paying_offers.png)
 *Visualization: Frequency of Specific Skills for Top Paying Job Offers  
 (Generated using Python’s Pyplot.)*
-
----
 
 ## 3. Top Demanded Skills for Data Scientist Roles
 #### What skills are most frequently demanded in the field of data science?
@@ -182,8 +172,6 @@ This segment shifts focus to the most frequently requested skills within the dat
 *Visualization: Proportional Demand for Key Skills Among Remote Data Scientist Job Offers in Europe (2023)
 (Generated using Python’s Pyplot.)*
 
----
-
 ## 4. Top Paying Skills
 #### Which specialized skills command a premium in compensation?
 This section examines the relationship between specific skillsets and average salaries for remote Data Scientist positions in Europe. By analyzing the dataset, it highlights which specialized skills are linked to the highest levels of compensation, offering valuable guidance for professionals seeking to maximize their earning potential.
@@ -238,8 +226,6 @@ The findings suggest that specialized expertise can significantly elevate compen
 
 *Table of the Average Salary for Top Paying Skills Required for Remote Data Scientist Roles. (Europe 2023)*
 
----
-
 ## 5. Best Skills to Acquire for Data Scientists
 #### What is the optimal skill set for aspiring Data Scientists?
 This chapter combines insights on skill demand and compensation to identify the ideal balance of abilities for career progression. The analysis reveals how specialized expertise can significantly enhance earning potential, while foundational skills serve as essential building blocks for success in the field of data science.
@@ -292,13 +278,9 @@ By merging insights on both skill demand and compensation, the analysis identifi
 
 *Table: Optimal Skills for Data Scientists Sorted by Average Salary and Demand. (The table summarizes insights from the integrated dataset analysis.)*
 
----
-
 # What I Learned
 
 Throughout this project, I significantly enhanced my SQL proficiency—especially in constructing complex queries utilizing subqueries and Common Table Expressions (CTEs). I refined my data aggregation techniques using grouping and aggregate functions and deepened my understanding of effective data visualization with Python libraries such as Pyplot and Seaborn.
-
----
 
 # Conclusions
 
