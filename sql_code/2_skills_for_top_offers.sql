@@ -38,340 +38,116 @@ Result set:
 
 [
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "sql"
+        "skill_name": "python",
+        "skill_count": "7"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "python"
+        "skill_name": "pytorch",
+        "skill_count": "3"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "aws"
+        "skill_name": "aws",
+        "skill_count": "3"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "redshift"
+        "skill_name": "pandas",
+        "skill_count": "3"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "pandas"
+        "skill_name": "sql",
+        "skill_count": "3"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "numpy"
+        "skill_name": "scikit-learn",
+        "skill_count": "2"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "pyspark"
+        "skill_name": "github",
+        "skill_count": "2"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "tensorflow"
+        "skill_name": "mongodb",
+        "skill_count": "2"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "keras"
+        "skill_name": "r",
+        "skill_count": "2"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "pytorch"
+        "skill_name": "numpy",
+        "skill_count": "2"
     },
     {
-        "id": 539610,
-        "title": "Data Scientist, Machine Learning and RWD",
-        "salary_year_avg": "160000.0",
-        "company_name": "Citeline",
-        "skill_name": "scikit-learn"
+        "skill_name": "sas",
+        "skill_count": "2"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "oracle"
+        "skill_name": "oracle",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "snowflake"
+        "skill_name": "pyspark",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "pandas"
+        "skill_name": "redshift",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "jupyter"
+        "skill_name": "slack",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "scikit-learn"
+        "skill_name": "snowflake",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "matplotlib"
+        "skill_name": "tableau",
+        "skill_count": "1"
     },
     {
-        "id": 232562,
-        "title": "Data Scientist - Service Logistics",
-        "salary_year_avg": "140500.0",
-        "company_name": "Cisco",
-        "skill_name": "tableau"
+        "skill_name": "tensorflow",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "python"
+        "skill_name": "cassandra",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "mongodb"
+        "skill_name": "couchbase",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "mongodb"
+        "skill_name": "elasticsearch",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "pandas"
+        "skill_name": "java",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "numpy"
+        "skill_name": "jupyter",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "pytorch"
+        "skill_name": "kafka",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "github"
+        "skill_name": "keras",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "notion"
+        "skill_name": "matplotlib",
+        "skill_count": "1"
     },
     {
-        "id": 1017393,
-        "title": "Bioprocess Data Scientist",
-        "salary_year_avg": "140000.0",
-        "company_name": "Invert",
-        "skill_name": "slack"
+        "skill_name": "nosql",
+        "skill_count": "1"
     },
     {
-        "id": 36662,
-        "title": "Data Scientist",
-        "salary_year_avg": "120000.0",
-        "company_name": "Workato",
-        "skill_name": "python"
-    },
-    {
-        "id": 452167,
-        "title": "Credit Data Scientist (Mid-level)",
-        "salary_year_avg": "115000.0",
-        "company_name": "Credora",
-        "skill_name": "sql"
-    },
-    {
-        "id": 452167,
-        "title": "Credit Data Scientist (Mid-level)",
-        "salary_year_avg": "115000.0",
-        "company_name": "Credora",
-        "skill_name": "python"
-    },
-    {
-        "id": 452167,
-        "title": "Credit Data Scientist (Mid-level)",
-        "salary_year_avg": "115000.0",
-        "company_name": "Credora",
-        "skill_name": "r"
-    },
-    {
-        "id": 669702,
-        "title": "Senior Aktuary / Data Scientist for Pricing (m/f/d)",
-        "salary_year_avg": "87499.5",
-        "company_name": "Allianz",
-        "skill_name": "python"
-    },
-    {
-        "id": 669702,
-        "title": "Senior Aktuary / Data Scientist for Pricing (m/f/d)",
-        "salary_year_avg": "87499.5",
-        "company_name": "Allianz",
-        "skill_name": "java"
-    },
-    {
-        "id": 669702,
-        "title": "Senior Aktuary / Data Scientist for Pricing (m/f/d)",
-        "salary_year_avg": "87499.5",
-        "company_name": "Allianz",
-        "skill_name": "r"
-    },
-    {
-        "id": 669702,
-        "title": "Senior Aktuary / Data Scientist for Pricing (m/f/d)",
-        "salary_year_avg": "87499.5",
-        "company_name": "Allianz",
-        "skill_name": "sas"
-    },
-    {
-        "id": 669702,
-        "title": "Senior Aktuary / Data Scientist for Pricing (m/f/d)",
-        "salary_year_avg": "87499.5",
-        "company_name": "Allianz",
-        "skill_name": "sas"
-    },
-    {
-        "id": 488430,
-        "title": "Data Scientist",
-        "salary_year_avg": "80000.0",
-        "company_name": "Lago",
-        "skill_name": "sql"
-    },
-    {
-        "id": 488430,
-        "title": "Data Scientist",
-        "salary_year_avg": "80000.0",
-        "company_name": "Lago",
-        "skill_name": "python"
-    },
-    {
-        "id": 488430,
-        "title": "Data Scientist",
-        "salary_year_avg": "80000.0",
-        "company_name": "Lago",
-        "skill_name": "pytorch"
-    },
-    {
-        "id": 488430,
-        "title": "Data Scientist",
-        "salary_year_avg": "80000.0",
-        "company_name": "Lago",
-        "skill_name": "github"
-    },
-    {
-        "id": 446498,
-        "title": "Content Manager with ML/Data Science Experience",
-        "salary_year_avg": "60000.0",
-        "company_name": "Neurons Lab",
-        "skill_name": "aws"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "nosql"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "elasticsearch"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "cassandra"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "couchbase"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "aws"
-    },
-    {
-        "id": 249359,
-        "title": "Database Engineer",
-        "salary_year_avg": "55000.0",
-        "company_name": "Alcor",
-        "skill_name": "kafka"
-    },
-    {
-        "id": 1804497,
-        "title": "Junior Data Scientist (Clone)",
-        "salary_year_avg": "55000.0",
-        "company_name": "mlxar",
-        "skill_name": "python"
+        "skill_name": "notion",
+        "skill_count": "1"
     }
-]  
+]
 */
